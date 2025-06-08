@@ -1,23 +1,23 @@
 #EXTM3U
-#EXTINF:-1,杭州文化
-http://112.17.40.145/PLTV/88888888/224/3221226110/index.m3u8
-#EXTINF:-1,CCTV15
-http://112.17.40.145/PLTV/88888888/224/3221226112/index.m3u8
-#EXTINF:-1,州影视
-http://112.17.40.145/PLTV/88888888/224/3221226114/index.m3u8
-#EXTINF:-1,西湖明珠
-http://112.17.40.145/PLTV/88888888/224/3221226116/index.m3u8
-#EXTINF:-1,2+
-http://112.17.40.145/PLTV/88888888/224/3221226118/index.m3u8
-#EXTINF:-1,嘉兴新闻综合 HD
-http://112.17.40.145/PLTV/88888888/224/3221226120/index.m3u8
-#EXTINF:-1,CCTV7 HD
+#EXTINF:-1 group-title="央视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png",CCTV1 HD
+http://112.17.40.145/PLTV/88888888/224/3221226154/index.m3u8
+#EXTINF:-1 group-title="央视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png",CCTV2 HD
+http://112.17.40.145/PLTV/88888888/224/3221226138/index.m3u8
+#EXTINF:-1 group-title="央视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png",CCTV7 HD
 http://112.17.40.145/PLTV/88888888/224/3221226122/index.m3u8
-#EXTINF:-1,兵团卫视
-http://112.17.40.145/PLTV/88888888/224/3221226124/index.m3u8
-#EXTINF:-1,CCTV14 HD
-http://112.17.40.145/PLTV/88888888/224/3221226126/index.m3u8
-#EXTINF:-1,优优宝贝 HD
-http://112.17.40.145/PLTV/88888888/224/3221226128/index.m3u8
-#EXTINF:-1,宁波新闻综合
-http://112.17.40.145/PLTV/88888888/224/3221226130/index.m3u8
+#EXTINF:-1 group-title="央视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png",CCTV9 HD
+http://112.17.40.145/PLTV/88888888/224/3221226561/index.m3u8
+#EXTINF:-1 group-title="央视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png",CCTV10 HD
+http://112.17.40.145/PLTV/88888888/224/3221226199/index.m3u8
+#EXTINF:-1 group-title="央视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png",CCTV15
+http://112.17.40.145/PLTV/88888888/224/3221226112/index.m3u8
+#EXTINF:-1 group-title="未分类",湖南卫视 HD
+http://112.17.40.145/PLTV/88888888/224/3221226162/index.m3u8
+#EXTINF:-1 group-title="未分类",江苏卫视
+http://112.17.40.145/PLTV/88888888/224/3221226567/index.m3u8
+#EXTINF:-1 group-title="地方" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/BAMC3.jpg",江西卫视
+http://112.17.40.145/PLTV/88888888/224/3221226140/index.m3u8
+#EXTINF:-1 group-title="未分类",东方卫视
+http://112.17.40.145/PLTV/88888888/224/3221226142/index.m3u8
+#EXTINF:-1 group-title="未分类",辽宁卫视
+http://112.17.40.145/PLTV/88888888/224/3221226148/index.m3u8
